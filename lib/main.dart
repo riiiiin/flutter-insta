@@ -4,6 +4,7 @@ import 'package:test/responsive/mobile_screen_layout.dart';
 import 'package:test/responsive/responsive_layout_screen.dart';
 import 'package:test/responsive/web_screen_layout.dart';
 import 'package:test/screens/login_screen.dart';
+import 'package:test/screens/sign_up_screen.dart';
 import 'package:test/utils/colors.dart';
 import 'package:firebase_core/firebase_core.dart';
 
